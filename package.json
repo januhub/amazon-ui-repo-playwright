@@ -1,0 +1,11 @@
+{
+  "name": "amazon-ui-repo-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/januhub/amazon-ui-repo-playwright.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  },
+  "scripts": {}
+}
