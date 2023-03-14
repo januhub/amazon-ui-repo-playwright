@@ -4,11 +4,12 @@
 
 1. Clone the repo
 2. Run `npm install` in root directory of the repo
-3. Run `npx playwright test` in root directory of the repo
-4. Currently headless has been set `false` in `amazon-search-to-payment.spec.ts`. Hence it will run with visualization
-5. Run `npx playwright show-report`
+3. Run `npx install playwright` if playwright is not there in system
+4. Run `npx playwright test` in root directory of the repo
+5. Currently headless has been set `false` in `amazon-search-to-payment.spec.ts`. Hence it will run with visualization
+6. Run `npx playwright show-report`
 
-## Test description 
+## Test description
 
 Test is stored in `amazon-search-to-payment.spec.ts` file.
 
