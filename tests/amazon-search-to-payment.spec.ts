@@ -1,6 +1,6 @@
 import { test, expect, chromium } from "@playwright/test";
 
-test("Amazon search to payment page with varieing quantities", async () => {
+test("Amazon search to payment page with varying quantities", async () => {
   // browser set headless false chromium
   const browser = await chromium.launch({ headless: false });
   const page = await browser.newPage();

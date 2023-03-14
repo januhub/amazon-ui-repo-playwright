@@ -1,5 +1,8 @@
 # Amazon search page to payment page
 
+## Prerequisite
+1. Ensure `node` and `npm` is installed in the system
+
 ## Steps to run the test 
 
 1. Clone the repo
