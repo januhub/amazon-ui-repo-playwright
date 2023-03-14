@@ -28,5 +28,5 @@ Test is stored in `amazon-search-to-payment.spec.ts` file.
 
 ### Total price verification through quantity and price
 
-1. In product description It select **random quantity each time in product description page** and calculates to expected total price through quantity and product price
+1. In product description page It selects **random quantity each time** and calculates to expected total price through quantity and product price
 2. Once it goes to Cart Page it verifies the `expected total price` with `actual total price`
