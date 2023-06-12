@@ -1,5 +1,8 @@
 # Amazon search page to payment page
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QLGNWdpGCRI/0.jpg)](https://www.youtube.com/watch?v=QLGNWdpGCRI&ab_channel=JananiElangovan)
+
+
 ## Prerequisite
 1. Ensure `node` and `npm` is installed in the system
 
